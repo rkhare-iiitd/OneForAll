@@ -1,6 +1,3 @@
 One for all, all for one.
-
-
-One for all, all for one - Part 2.
-new push
+Hacktoberfest 2025
 HF-2025
